@@ -1,0 +1,14 @@
+login link:.. mightycliff.com/cpanel
+
+
+| UserName: takshsolar
+| PassWord: 4s8dXPwN]G37
+
+
+
+
+
+database name :  takshsol_school
+user : takshsol_school
+pass : school@123
+

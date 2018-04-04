@@ -1,0 +1,9 @@
+We need to develop a single web application which comprises the following sub modules:
+
+1. Discussion forum - Similar to any forums (Eg. https://www.java-forums.org)
+
+2. E-commerce app center - Provision for app developers to post their app and sell (Eg. https://www.sapappcenter.com/home)
+
+3. Blog ( Eg. https://blogs.oracle.com/developers/)
+
+4. Code center - Provision for the developers / consultants to post their code with text / video explanation (Eg. - https://www.kaggle.com/)

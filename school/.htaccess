@@ -1,0 +1,17 @@
+####sir ar taa
+<IfModule mod_rewrite.c>
+RewriteEngine on
+#RewriteBase /apkaschool/
+RewriteBase /school/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php/$1 [L]
+</IfModule>
+
+#http://school.takshsolar.com/admin
+
+#RewriteEngine On
+#RewriteBase /BLACKPOD
+#RewriteCond %{REQUEST_FILENAME} !-f
+##RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule ^(.*)$ index.php?/$1 [L] 

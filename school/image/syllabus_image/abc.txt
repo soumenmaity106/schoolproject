@@ -1,0 +1,158 @@
+
+http://www.bombinoexp.in/track.aspx?AwbNo=1390785
+
+
+need to add a new field in tbl_courier table.
+
+
+AwbNo=1390785
+
+============================
+Traking Data:
+Request URL:http://www.bombinoexp.in/track.aspx/TrackingData
+
+http://www.bombinoexp.in/track.aspx?AwbNo=1390785
+
+track.aspx?AwbNo=1390785
+
+#################################################################
+http://www.bombinoexp.in/track.aspx/TrackingData
+
+
+
+Request URL:https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0b.woff2
+Request URL:https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOUuhp.woff2
+Request URL:http://www.bombinoexp.in/fonts/fontawesome-webfontba72.woff?v=4.0.3
+Request URL:https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0b.woff2
+Request URL:https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOUuhp.woff2
+Request URL:http://www.bombinoexp.in/fonts/fontawesome-webfontba72.woff?v=4.0.3
+
+
+==========
+
+Request URL:http://www.bombinoexp.com/Tracking.aspx?txtAwb=5524828
+
+
+api key = t3v4sTFx22H9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://www.shop.jkunlockstore.com/eshop.php
+user admin 
+pass admin 
+1.fix cart design for web and also make it mobile responsive
+after login if user account currency is not matched with cart currency change cart currency as a user account currency and do check out with user account credits
+you need to fix contents in email notifications if user pay with payment gateways not with credits 
+also send email to admin and user for order if order is placed
+you need to create new email template in functions.php 
+also you need to add template in email templates in tbl_emails_template
+show cart after login in clients area
+when come to login page from cart then after login open checkout.php page not dashboard page
+fix design of checkout.php page
+
+
+
+
+
+
+
+
+apkaSchool | Dashboard
+
+StudentID	Student Photo	Student Name	Roll	Email	Action
+1		The Student Name	45	apysan@gmail.com	
+2		qqqqqqqqqqqqqqqqq			
+3		avatar4	45	apysan@gmail.com	
+4		Arvind Kumar	22	apysan@rediffmail.com	
+5		Tanisha Sharma	10	tanya@gmail.com	
+6		sanjana Choudhary	12	sanjana@gmail.com	
+7		Shivam Yadav	12	apysan@gmail.com	
+
+https://www.textlocal.in/simple-developer-sms-api?utm_source=google&utm_medium=cpc&utm_device=c&utm_term=free%20sms%20api&utm_campaign=ppc-SMS%20APIs&gclid=Cj0KCQiAieTUBRCaARIsAHeLDCQ2y3paqgHeS3QWjuh4H7cYKR1cUqpwLpcnj5CjPo9JMnqozdpB5WkaAo9GEALw_wcB
+Bharatindia4209211poiuy
+Bharat4209211
+
+My IP Address : 45.123.161.125
+
+My API KEY ---->  /mKR7qM8nBk-32lxWq39TrXG0B6wRFNJmnfefGEJiS
+
+My IP Address ---> 45.123.161.125
+
+
+Your API Hash code '$hash=xxxx' is: 98a4ff59117661430290d81cbafd548e77366f775d07733b76d1e3bb62871133
+
+
+
+
+<?php
+	// Authorisation details.
+	$username = "apysan@rediffmail.com";
+	$hash = "98a4ff59117661430290d81cbafd548e77366f775d07733b76d1e3bb62871133";
+
+	// Config variables. Consult http://api.textlocal.in/docs for more info.
+	$test = "0";
+
+	// Data for text message. This is the text message data.
+	$sender = "TXTLCL"; // This is who the message appears to be from.
+	$numbers = "910000000000"; // A single number or a comma-seperated list of numbers
+	$message = "This is a test message from the PHP API script.";
+	// 612 chars or less
+	// A single number or a comma-seperated list of numbers
+	$message = urlencode($message);
+	$data = "username=".$username."&hash=".$hash."&message=".$message."&sender=".$sender."&numbers=".$numbers."&test=".$test;
+	$ch = curl_init('http://api.textlocal.in/send/?');
+	curl_setopt($ch, CURLOPT_POST, true);
+	curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+	$result = curl_exec($ch); // This is the result from the API
+	curl_close($ch);
+?>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
